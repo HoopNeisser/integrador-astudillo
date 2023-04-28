@@ -1,0 +1,10 @@
+/* Luego hay que modificarlo con @media para responsive */
+
+.row{
+    padding: 20px;
+    background-color: #a1b5cb;
+}
+
+.center{
+    text-align: center;
+}
