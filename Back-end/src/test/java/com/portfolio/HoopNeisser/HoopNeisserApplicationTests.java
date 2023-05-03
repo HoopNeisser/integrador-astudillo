@@ -1,10 +1,10 @@
-package com.portfolio.hooponeisser;
+package com.portfolio.HoopNeisser;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HooponeisserApplicationTests {
+class HoopNeisserApplicationTests {
 
 	@Test
 	void contextLoads() {
